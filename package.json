@@ -1,14 +1,15 @@
 {
-    "name": "bmi-calculator",
-    "version": "1.0.0",
-    "description": "BMI Calculator",
-    "main": "root.js",
-    "scripts": {
-      "start": "node root.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "body-parser": "^1.19.0"
-    }
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "BMI Calculator",
+  "main": "root.js",
+  "scripts": {
+    "start": "node root.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0"
   }
-  
+}
